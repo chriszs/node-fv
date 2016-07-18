@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "async": "^1.3.0",
-    "dv": "github:positlabs/node-dv",
+    "dv": "github:chriszs/node-dv",
     "glob": "^5.0.12",
     "minimist": "^1.1.0"
   },
